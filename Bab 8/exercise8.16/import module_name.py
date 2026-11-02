@@ -1,0 +1,3 @@
+import message_functions
+
+message_functions.display_message()
